@@ -1,0 +1,18 @@
+.logo{
+  float: left;
+  font-size: 50px;
+}
+
+.logo2{
+  float: right;
+  font-size: 20px;
+}
+h1{
+  clear: left;
+  text-align: center;
+  padding-top: 50px;
+  color: red;
+}
+p{
+  text-align:center;
+}
